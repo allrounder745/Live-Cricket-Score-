@@ -1,6 +1,6 @@
 export default {
   async fetch(request, env, ctx) {
-    const url = 'https://allrounderscoreboard.onrender.com/score?id=113496';
+    const url = 'https://allrounderscoreboard.onrender.com/score?id=118592';
 
     try {
       const res = await fetch(url);
