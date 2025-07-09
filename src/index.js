@@ -10,7 +10,7 @@ export default {
       });
     }
 
-    const url = `https://allrounderscoreboard.onrender.com/score?id=${matchId}`;
+    const url = `https://ts-cricket-score-34us.onrender.com/score?id=${matchId}`;
 
     try {
       const res = await fetch(url);
